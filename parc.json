@@ -1,0 +1,786 @@
+{
+    "ГУ \"Укук\" при ГП КР": {
+        "name": "ГУ \"Укук\" при ГП КР",
+        "posion": "системный администратор (Linux)",
+        "tip": "Работа в офисе",
+        "salary": "От 80000 KGS в месяц",
+        "tags": "#guukukprigpkr #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10242"
+    },
+    "Fortylines IO": {
+        "name": "Fortylines IO",
+        "posion": "Project manager",
+        "tip": "Работа в офисе",
+        "salary": "500 - 1000 USD в месяц",
+        "tags": "#fortylinesio #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9834"
+    },
+    "Ogogo Academy": {
+        "name": "Ogogo Academy",
+        "posion": "Ментор по Python",
+        "tip": "Работа в офисе",
+        "salary": "30000 - 900000 KGS в месяц",
+        "tags": "#ogogoacademy #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10189"
+    },
+    "ОсОО \"ДэвКэтс\"": {
+        "name": "ОсОО \"ДэвКэтс\"",
+        "posion": "Старший разработчик программного обеспечения (Java)",
+        "tip": "Работа в офисе",
+        "salary": "От 130000 KGS в месяц",
+        "tags": "#osoodevkets #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9883"
+    },
+    "BookingLane": {
+        "name": "BookingLane",
+        "posion": "Middle Developer С#/Go",
+        "tip": "Работа в офисе",
+        "salary": "От 1000 USD в месяц",
+        "tags": "#bookinglane #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9800"
+    },
+    "Государственное предприятие \"Центр единого окна\"": {
+        "name": "Государственное предприятие \"Центр единого окна\"",
+        "posion": "Java-разработчик",
+        "tip": "Работа в офисе",
+        "salary": "От 70000 KGS в месяц",
+        "tags": "#gosudarstvennoepredpriyatiecentredinogookna #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10148"
+    },
+    "IT_QUALITIVE": {
+        "name": "IT_QUALITIVE",
+        "posion": "Junior/MIdle UI/UX Дизайнер (Ментор)",
+        "tip": "Работа в офисе",
+        "salary": "25000 - 50000 KGS в месяц",
+        "tags": "#itqualitive #office #monthly #osh",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10224"
+    },
+    "Макбучная": {
+        "name": "Макбучная",
+        "posion": "Офис-менеджер",
+        "tip": "Работа в офисе",
+        "salary": "30000 - 40000 KGS в месяц",
+        "tags": "#makbuchnaya #office #monthly #bishkkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9864"
+    },
+    "Motion Web LLC": {
+        "name": "Motion Web LLC",
+        "posion": "Начинающий SMM-специалист",
+        "tip": "Работа в офисе",
+        "salary": "От 10000 KGS в месяц",
+        "tags": "#motionwebllc #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10238"
+    },
+    "Namba One": {
+        "name": "Namba One",
+        "posion": "Back-End Developer (React + Node.js) Middle/Senior",
+        "tip": "Работа в офисе",
+        "salary": "100000 - 250000 KGS в месяц",
+        "tags": "#nambaone #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9934"
+    },
+    "ЗАО «Банк Компаньон»": {
+        "name": "ЗАО «Банк Компаньон»",
+        "posion": "IOS Developer (Middle/Senior).",
+        "tip": "Работа в офисе",
+        "salary": "От 100000 KGS в месяц",
+        "tags": "#zaobankkompanon #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9705"
+    },
+    "ФККС (Финансовая Компания Кредитных Союзов)": {
+        "name": "ФККС (Финансовая Компания Кредитных Союзов)",
+        "posion": "Системный администратор",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 40000 KGS в месяц",
+        "tags": "#fkksfinansovayakompaniyakreditnyhsoyuzov #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9758"
+    },
+    "ДДХ": {
+        "name": "ДДХ",
+        "posion": "Программист-системный администратор",
+        "tip": "Работа в офисе",
+        "salary": "35000 - 37000 KGS в месяц",
+        "tags": "#ddh #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10231"
+    },
+    "ЗАО \"Азия Ритейл\"": {
+        "name": "ЗАО \"Азия Ритейл\"",
+        "posion": "Системный администратор",
+        "tip": "Работа в офисе",
+        "salary": "От 80000 KGS в месяц",
+        "tags": "#zaoaziyariteyl #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10232"
+    },
+    "360.tech": {
+        "name": "360.tech",
+        "posion": "Системный аналитик",
+        "tip": "Работа в офисе",
+        "salary": "От 1000 USD в месяц",
+        "tags": "#360tech #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9427"
+    },
+    "Pricer Bishkek LLC": {
+        "name": "Pricer Bishkek LLC",
+        "posion": "Front-end разработчик (vue.js)",
+        "tip": "Работа в офисе",
+        "salary": "800 - 1200 USD в месяц",
+        "tags": "#pricerbishkekllc #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9733"
+    },
+    "IT-RUN": {
+        "name": "IT-RUN",
+        "posion": "Менеджер по продажам",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 60000 KGS в месяц",
+        "tags": "#itrun #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9789"
+    },
+    "Webparadox": {
+        "name": "Webparadox",
+        "posion": "Методист по обучению PHP/Laravel",
+        "tip": "Работа в офисе",
+        "salary": "От 25000 KGS в месяц",
+        "tags": "#webparadox #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9645"
+    },
+    "Smart Logistics": {
+        "name": "Smart Logistics",
+        "posion": "Программист 1С",
+        "tip": "Работа в офисе",
+        "salary": "600 - 1500 USD в месяц",
+        "tags": "#smartlogistics #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10016"
+    },
+    "Makers": {
+        "name": "Makers",
+        "posion": "Онлайн-стажировка для Проектных Менеджеров с трудоустройством",
+        "tip": "",
+        "salary": "Неоплачиваемая",
+        "tags": "#makers #internship #unpaid #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9841"
+    },
+    "Оптима Банк": {
+        "name": "Оптима Банк",
+        "posion": "QA Junior / Middle",
+        "tip": "Работа в офисе",
+        "salary": "От 40000 KGS в месяц",
+        "tags": "#optimabank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9878"
+    },
+    "ОАО \"Дос-Кредобанк\"": {
+        "name": "ОАО \"Дос-Кредобанк\"",
+        "posion": "Java Backend (middle/senior)",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 250000 KGS в месяц",
+        "tags": "#oaodoskredobank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9875"
+    },
+    "ОАО\" ФинансКредитБанк\"": {
+        "name": "ОАО\" ФинансКредитБанк\"",
+        "posion": "Ведущий специалист / специалист Отдела системной и сетевой поддержки Управления информационных технологий (сетевой администратор)",
+        "tip": "",
+        "salary": "Отдела системной и сетевой поддержки Управления информационных технологий (сетевой администратор)Тип: Работа в офисеОт 50000 KGS в месяц",
+        "tags": "#oaofinanskreditbank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10000"
+    },
+    "ish.kg": {
+        "name": "ish.kg",
+        "posion": "SMM Manager",
+        "tip": "",
+        "salary": "Неоплачиваемая",
+        "tags": "#ishkg #internship #unpaid #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10123"
+    },
+    "ОсОО Финанс Софт": {
+        "name": "ОсОО Финанс Софт",
+        "posion": "C# .Net Developer Middle - Senior",
+        "tip": "Работа в офисе",
+        "salary": "800 - 1300 USD в месяц",
+        "tags": "#osoofinanssoft #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10043"
+    },
+    "MBANK": {
+        "name": "MBANK",
+        "posion": "Node JS Developer",
+        "tip": "Работа в офисе",
+        "salary": "От 80000 KGS в месяц",
+        "tags": "#mbank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9839"
+    },
+    "DevX": {
+        "name": "DevX",
+        "posion": "Content Manager",
+        "tip": "Работа в офисе",
+        "salary": "От 500 USD в месяц",
+        "tags": "#devx #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9832"
+    },
+    "Argenta": {
+        "name": "Argenta",
+        "posion": "DevOps-инженер",
+        "tip": "Работа в офисе",
+        "salary": "120000 - 180000 RUB в месяц",
+        "tags": "#argenta #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9347"
+    },
+    "EFSOL": {
+        "name": "EFSOL",
+        "posion": "Программист 1С",
+        "tip": "Работа в офисе",
+        "salary": "100000 - 150000 RUB в месяц",
+        "tags": "#efsol #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10204"
+    },
+    "ОсОО \"Vertex Technologies\"": {
+        "name": "ОсОО \"Vertex Technologies\"",
+        "posion": "Junior Ruby on Rails Developer",
+        "tip": "Работа в офисе",
+        "salary": "700 - 1500 USD в месяц",
+        "tags": "#osoovertextechnologies #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9856"
+    },
+    "Международная школа по робототехнике Лига Роботов": {
+        "name": "Международная школа по робототехнике Лига Роботов",
+        "posion": "Менеджер по продажам",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 45000 KGS в месяц",
+        "tags": "#mezhdunarodnayashkolaporobototehnikeligarobotov #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9702"
+    },
+    "Farzoom": {
+        "name": "Farzoom",
+        "posion": "DevOps – инженер",
+        "tip": "Работа в офисе",
+        "salary": "От 800 USD в месяц",
+        "tags": "#farzoom #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9691"
+    },
+    "Филиал Общества с ограниченной ответственностью «Surf IT»": {
+        "name": "Филиал Общества с ограниченной ответственностью «Surf IT»",
+        "posion": "Андроид разработчик уровня middle",
+        "tip": "Работа в офисе",
+        "salary": "От 120000 KGS в месяц",
+        "tags": "#filialobshchestvasogranichennoyotvetstvennostyusurfit #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9833"
+    },
+    "ConsaltSoft": {
+        "name": "ConsaltSoft",
+        "posion": "Middle Frontend JavaScript(VueJS)",
+        "tip": "Работа в офисе",
+        "salary": "700 - 2000 USD в месяц",
+        "tags": "#consaltsoft #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9829"
+    },
+    "Kassir.kg": {
+        "name": "Kassir.kg",
+        "posion": "Front end developer. Middle. React/next.",
+        "tip": "Работа в офисе",
+        "salary": "30000 - 85000 KGS в месяц",
+        "tags": "#kassirkg #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9190"
+    },
+    "kassir.kg": {
+        "name": "kassir.kg",
+        "posion": "Middle. Full stack разработчик (React, Next.js, Python, PostgreSQL)",
+        "tip": "Работа в офисе",
+        "salary": "40000 - 85000 KGS в месяц",
+        "tags": "#kassirkg #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9727"
+    },
+    "ГУ \"Түндүк\"": {
+        "name": "ГУ \"Түндүк\"",
+        "posion": "DevOps/System Administrator",
+        "tip": "Работа в офисе",
+        "salary": "От 100000 KGS в месяц",
+        "tags": "#gutunduk #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9286"
+    },
+    "CodifyLab": {
+        "name": "CodifyLab",
+        "posion": "Вечерний ментор по JavaScript + React",
+        "tip": "Работа в офисе",
+        "salary": "10000 - 50000 KGS в час",
+        "tags": "#codifylab #office #hourly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9774"
+    },
+    "Let's Codify": {
+        "name": "Let's Codify",
+        "posion": "Проектный менеджер",
+        "tip": "Работа в офисе",
+        "salary": "От 20000 KGS в месяц",
+        "tags": "#letscodify #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9861"
+    },
+    "ОсОО \"ПЭЙ 24\"": {
+        "name": "ОсОО \"ПЭЙ 24\"",
+        "posion": "Сетевой администратор",
+        "tip": "Работа в офисе",
+        "salary": "От 40000 KGS в месяц",
+        "tags": "#osoopey24 #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10192"
+    },
+    "ОАО РСК Банк": {
+        "name": "ОАО РСК Банк",
+        "posion": "Администратор баз данных",
+        "tip": "Работа в офисе",
+        "salary": "30000 - 80000 KGS в месяц",
+        "tags": "#oaorskbank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10119"
+    },
+    "ТОО «ЛУКОЙЛ Центральная Азия» в Кыргызской Республике": {
+        "name": "ТОО «ЛУКОЙЛ Центральная Азия» в Кыргызской Республике",
+        "posion": "Менеджер/специалист по ИТО",
+        "tip": "Работа в офисе",
+        "salary": "От 800 USD в месяц",
+        "tags": "#toolukoylcentralnayaaziyavkyrgyzskoyrespublike #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10180"
+    },
+    "LogiSense": {
+        "name": "LogiSense",
+        "posion": "Middle/Senior React-Native Developer",
+        "tip": "Работа в офисе",
+        "salary": "1000 - 3000 USD в месяц",
+        "tags": "#logisense #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9818"
+    },
+    "MyTicket": {
+        "name": "MyTicket",
+        "posion": "Java middle разработчик",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 150000 KGS в месяц",
+        "tags": "#myticket #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10040"
+    },
+    "Национальная платежная система ЭЛКАРТ": {
+        "name": "Национальная платежная система ЭЛКАРТ",
+        "posion": "Заместитель начальника Отдела поддержки процессинговой системы",
+        "tip": "",
+        "salary": "Отдела поддержки процессинговой системыТип: Работа в офисеОт 140000 KGS в месяц",
+        "tags": "#nacionalnayaplatezhnayasistemaelkart #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9253"
+    },
+    "Make Nova": {
+        "name": "Make Nova",
+        "posion": "Senior Backend Developer",
+        "tip": "Работа в офисе",
+        "salary": "2000 - 5000 USD в месяц",
+        "tags": "#makenova #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10191"
+    },
+    "4Tаle Production": {
+        "name": "4Tаle Production",
+        "posion": "Project Manager / Проект Менеджер",
+        "tip": "Работа в офисе",
+        "salary": "50000 - 85000 KGS в месяц",
+        "tags": "#4taleproduction #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9844"
+    },
+    "Navis Academy": {
+        "name": "Navis Academy",
+        "posion": "Ментор по Python",
+        "tip": "Работа в офисе",
+        "salary": "15000 - 50000 KGS в месяц",
+        "tags": "#navisacademy #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10187"
+    },
+    "Demir Kyrgyz International Bank": {
+        "name": "Demir Kyrgyz International Bank",
+        "posion": "IT Аналитик - Процессингового центра",
+        "tip": "Работа в офисе",
+        "salary": "30000 - 50000 KGS в месяц",
+        "tags": "#demirkyrgyzinternationalbank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9616"
+    },
+    "Санарип Системс": {
+        "name": "Санарип Системс",
+        "posion": "Разработчик .NET Core (middle/senior)",
+        "tip": "Работа в офисе",
+        "salary": "1500 - 3000 USD в месяц",
+        "tags": "#sanaripsistems #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9978"
+    },
+    "Государственная таможенная служба": {
+        "name": "Государственная таможенная служба",
+        "posion": "MIDDLE С# DEVELOPER",
+        "tip": "Работа в офисе",
+        "salary": "70000 - 90000 KGS в месяц",
+        "tags": "#gosudarstvennayatamozhennayasluzhba #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9692"
+    },
+    "8 bits": {
+        "name": "8 bits",
+        "posion": "Manual Mobile QA",
+        "tip": "Работа в офисе",
+        "salary": "1200 - 1800 USD в месяц",
+        "tags": "#8bits #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10012"
+    },
+    "Booster School": {
+        "name": "Booster School",
+        "posion": "Офис-менеджер в школу по программированию",
+        "tip": "Работа в офисе",
+        "salary": "15000 - 20000 KGS в месяц",
+        "tags": "#boosterschool #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9876"
+    },
+    "GeekStudio": {
+        "name": "GeekStudio",
+        "posion": "Junior/Middle QA",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 40000 KGS в месяц",
+        "tags": "#geekstudio #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9920"
+    },
+    "Veles Finance": {
+        "name": "Veles Finance",
+        "posion": "Middle Java/Kotlin Developer",
+        "tip": "Работа в офисе",
+        "salary": "1000 - 3000 USD в месяц",
+        "tags": "#velesfinance #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9660"
+    },
+    "Ask Inc": {
+        "name": "Ask Inc",
+        "posion": "UX/UI desinger",
+        "tip": "Работа в офисе",
+        "salary": "300 - 500 USD в месяц",
+        "tags": "#askinc #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9922"
+    },
+    "ОАО \"Айыл Банк\"": {
+        "name": "ОАО \"Айыл Банк\"",
+        "posion": "Специалист платежных систем",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 25000 KGS в месяц",
+        "tags": "#oaoayylbank #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9945"
+    },
+    "Innovat": {
+        "name": "Innovat",
+        "posion": "PHP Laravel Developer",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 120000 KGS в месяц",
+        "tags": "#innovat #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9675"
+    },
+    "RetMind": {
+        "name": "RetMind",
+        "posion": "Business Analyst",
+        "tip": "Работа в офисе",
+        "salary": "50000 - 100000 KGS в месяц",
+        "tags": "#retmind #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9960"
+    },
+    "ОсОО \"Йорк\"": {
+        "name": "ОсОО \"Йорк\"",
+        "posion": "Project Manager",
+        "tip": "Работа в офисе",
+        "salary": "От 35000 KGS в месяц",
+        "tags": "#osooyork #office #monthly #gbishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10121"
+    },
+    "ОсОО \"Грин Телеком Сервис\"": {
+        "name": "ОсОО \"Грин Телеком Сервис\"",
+        "posion": "Разработчик мобильных приложений (Android)",
+        "tip": "Работа в офисе",
+        "salary": "От 80000 KGS в месяц",
+        "tags": "#osoogrintelekomservis #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9997"
+    },
+    "ЗАО \"Банк Компаньон\"": {
+        "name": "ЗАО \"Банк Компаньон\"",
+        "posion": "Проектный менеджер",
+        "tip": "Работа в офисе",
+        "salary": "От 80000 KGS в месяц",
+        "tags": "#zaobankkompanon #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10122"
+    },
+    "Мобильный оператор О!": {
+        "name": "Мобильный оператор О!",
+        "posion": "UX/UI designer",
+        "tip": "Работа в офисе",
+        "salary": "От 40000 KGS в месяц",
+        "tags": "#mobilnyyoperatoro #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9863"
+    },
+    "DATS.TEAM": {
+        "name": "DATS.TEAM",
+        "posion": "Middle Manual QA Specialist",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 13000 RUB в месяц",
+        "tags": "#datsteam #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9661"
+    },
+    "ADA.KG": {
+        "name": "ADA.KG",
+        "posion": "Ментор по Python",
+        "tip": "Работа в офисе",
+        "salary": "От 30000 KGS в месяц",
+        "tags": "#adakg #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9802"
+    },
+    "Dream Media": {
+        "name": "Dream Media",
+        "posion": "Junior PHP/Laravel",
+        "tip": "Работа в офисе",
+        "salary": "От 15000 KGS в месяц",
+        "tags": "#dreammedia #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10029"
+    },
+    "ShopWallet": {
+        "name": "ShopWallet",
+        "posion": "UI/UX Designer",
+        "tip": "Работа в офисе",
+        "salary": "800 - 1000 USD в месяц",
+        "tags": "#shopwallet #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10101"
+    },
+    "Light Code": {
+        "name": "Light Code",
+        "posion": "Стажер JavaScript",
+        "tip": "",
+        "salary": "Неоплачиваемая",
+        "tags": "#lightcode #internship #unpaid #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9718"
+    },
+    "ОсОО Предприниматель": {
+        "name": "ОсОО Предприниматель",
+        "posion": "Tilda - Специалист",
+        "tip": "Работа в офисе",
+        "salary": "15000 - 20000 KGS в месяц",
+        "tags": "#osoopredprinimatel #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10027"
+    },
+    "Saaut Digital": {
+        "name": "Saaut Digital",
+        "posion": "Таргетолог",
+        "tip": "Работа в офисе",
+        "salary": "500 - 1000 USD в месяц",
+        "tags": "#saautdigital #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10082"
+    },
+    "Bilem": {
+        "name": "Bilem",
+        "posion": "Ментор в Жалал-Абаде",
+        "tip": "Работа в офисе",
+        "salary": "От 25000 KGS в месяц",
+        "tags": "#bilem #office #monthly #zhalalabad",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10097"
+    },
+    "Omega Devs": {
+        "name": "Omega Devs",
+        "posion": "Стажировка в Omega Devs Inter/Junior",
+        "tip": "",
+        "salary": "Неоплачиваемая",
+        "tags": "#omegadevs #internship #unpaid #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10091"
+    },
+    "Sigma Software Solutions": {
+        "name": "Sigma Software Solutions",
+        "posion": "Software Engineer C#.net",
+        "tip": "Работа в офисе",
+        "salary": "400 - 600 USD в месяц",
+        "tags": "#sigmasoftwaresolutions #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10075"
+    },
+    "Top Tier Logistics": {
+        "name": "Top Tier Logistics",
+        "posion": "Account Manager",
+        "tip": "Работа в офисе",
+        "salary": "350 - 400 USD в месяц",
+        "tags": "#toptierlogistics #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10074"
+    },
+    "Oracle Digital": {
+        "name": "Oracle Digital",
+        "posion": "Manual tester (Ручное тестирование)",
+        "tip": "Работа в офисе",
+        "salary": "15000 - 20000 KGS в месяц",
+        "tags": "#oracledigital #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10065"
+    },
+    "Mega": {
+        "name": "Mega",
+        "posion": "Старший аналитик данных",
+        "tip": "Работа в офисе",
+        "salary": "500 - 1000 USD в месяц",
+        "tags": "#mega #office #monthly #gbishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10042"
+    },
+    "Noventiq": {
+        "name": "Noventiq",
+        "posion": "Директор по продажам",
+        "tip": "Работа в офисе",
+        "salary": "От 110000 KGS в месяц",
+        "tags": "#noventiq #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-10041"
+    },
+    "ОсОО МКК «М Булак»": {
+        "name": "ОсОО МКК «М Булак»",
+        "posion": "Специалист технической поддержки по IT",
+        "tip": "Работа в офисе",
+        "salary": "20000 - 35000 KGS в месяц",
+        "tags": "#osoomkkmbulak #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9522"
+    },
+    "Motion Web Design Studio": {
+        "name": "Motion Web Design Studio",
+        "posion": "Junior Графический дизайнер",
+        "tip": "",
+        "salary": "on Web Design Studio: Junior Графический дизайнерТип: Стажировка15000 - 30000 KGS в месяц",
+        "tags": "#motionwebdesignstudio #internship #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9963"
+    },
+    "Клуб профессионалов «ProKG»": {
+        "name": "Клуб профессионалов «ProKG»",
+        "posion": "Программный менеджер",
+        "tip": "Работа в офисе",
+        "salary": "От 10000 KGS в месяц",
+        "tags": "#klubprofessionalovprokg #office #monthly #bishkekkyrgyzstan",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9979"
+    },
+    "CAPS Group": {
+        "name": "CAPS Group",
+        "posion": "HR Generalist",
+        "tip": "Работа в офисе",
+        "salary": "От 30000 KGS в месяц",
+        "tags": "#capsgroup #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9948"
+    },
+    "ОсОО \"Санарип Долбоор\"": {
+        "name": "ОсОО \"Санарип Долбоор\"",
+        "posion": "Middle java разработчик",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 150000 KGS в месяц",
+        "tags": "#osoosanaripdolboor #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9923"
+    },
+    "TLabs": {
+        "name": "TLabs",
+        "posion": "C#, ASP.NET Core Junior/Middle Developer",
+        "tip": "",
+        "salary": "s: C#, ASP.NET Core Junior/Middle DeveloperТип: Стажировка20000 - 30000 KGS в месяц",
+        "tags": "#tlabs #internship #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9973"
+    },
+    "Bishkek Park": {
+        "name": "Bishkek Park",
+        "posion": "Системный администратор",
+        "tip": "Работа в офисе",
+        "salary": "25000 - 25000 KGS в месяц",
+        "tags": "#bishkekpark #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9967"
+    },
+    "\"МАКС СОФТ\"": {
+        "name": "\"МАКС СОФТ\"",
+        "posion": "C# Senior developer / Разработчик C#",
+        "tip": "Работа в офисе",
+        "salary": "1500 - 2500 USD в месяц",
+        "tags": "#makssoft #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-5717"
+    },
+    "Motion Web LLC IT-Academy": {
+        "name": "Motion Web LLC IT-Academy",
+        "posion": "Ментор по JavaScript",
+        "tip": "Работа в офисе",
+        "salary": "5 - 10 USD в час",
+        "tags": "#motionwebllcitacademy #office #hourly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9723"
+    },
+    "Sibers": {
+        "name": "Sibers",
+        "posion": "Sales manager/IT-consultant",
+        "tip": "Работа в офисе",
+        "salary": "От 400 USD в месяц",
+        "tags": "#sibers #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9928"
+    },
+    "ОАО \"Кыргыз Почтасы\"": {
+        "name": "ОАО \"Кыргыз Почтасы\"",
+        "posion": "Программист 1С",
+        "tip": "Работа в офисе",
+        "salary": "От 30000 KGS в месяц",
+        "tags": "#oaokyrgyzpochtasy #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9869"
+    },
+    "Breez": {
+        "name": "Breez",
+        "posion": "Motion-Дизайнер🪀",
+        "tip": "Работа в офисе",
+        "salary": "От 800 USD в месяц",
+        "tags": "#breez #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9916"
+    },
+    "ЗАО \"Партнер Кей Джи\"": {
+        "name": "ЗАО \"Партнер Кей Джи\"",
+        "posion": "Product owner «Мобильное приложение»",
+        "tip": "Работа в офисе",
+        "salary": "От 50000 KGS в месяц",
+        "tags": "#zaopartnerkeydzhi #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9854"
+    },
+    "Apofiz Group": {
+        "name": "Apofiz Group",
+        "posion": "Mid/Senior Android разрабочик",
+        "tip": "Работа в офисе",
+        "salary": "600 - 1200 USD в месяц",
+        "tags": "#apofizgroup #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9851"
+    },
+    "ITCDevs": {
+        "name": "ITCDevs",
+        "posion": "Middle UX/UI",
+        "tip": "Работа в офисе",
+        "salary": "400 - 1000 USD в месяц",
+        "tags": "#itcdevs #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9848"
+    },
+    "IT-Academy": {
+        "name": "IT-Academy",
+        "posion": "Sales manager",
+        "tip": "Работа в офисе",
+        "salary": "От 20000 KGS в месяц",
+        "tags": "#itacademy #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9786"
+    },
+    "Avengers": {
+        "name": "Avengers",
+        "posion": "Sales (outstaff)",
+        "tip": "Работа в офисе",
+        "salary": "25000 - 50000 KGS в месяц",
+        "tags": "#avengers #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9880"
+    },
+    "HOI Agency": {
+        "name": "HOI Agency",
+        "posion": "Senior Backend Developer",
+        "tip": "Работа в офисе",
+        "salary": "1000 - 5000 USD в месяц",
+        "tags": "#hoiagency #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9865"
+    },
+    "Believe'n'code": {
+        "name": "Believe'n'code",
+        "posion": "Senior Full-stack developer",
+        "tip": "Работа в офисе",
+        "salary": "3000 - 5000 USD в месяц",
+        "tags": "#believencode #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9847"
+    },
+    "Scalable Solutions": {
+        "name": "Scalable Solutions",
+        "posion": "PHP специалист (Middle level)",
+        "tip": "Работа в офисе",
+        "salary": "1500 - 2000 USD в месяц",
+        "tags": "#scalablesolutions #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9846"
+    },
+    "Timely Soft": {
+        "name": "Timely Soft",
+        "posion": "Middle .NET Developer",
+        "tip": "Работа в офисе",
+        "salary": "80000 - 130000 KGS в месяц",
+        "tags": "#timelysoft #office #monthly #bishkek",
+        "contact": "Требования, контакты и условия тут: https://devkg.com/tg/j-9650"
+    }
+}
